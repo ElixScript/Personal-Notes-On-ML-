@@ -1,4 +1,4 @@
-# Personal Notes on Machine Learni
+# Personal Notes on Machine Learning
 Welcome to my comprehensive collection of notes on Machine Learning! This repository is designed to help learners navigate through machine learning concepts, algorithms, and coding practices in a simplified and practical way. As a data science enthusiast, I've compiled these notes to serve as a step-by-step guide into the world of Machine Learning.
 
 ## The Content : 
